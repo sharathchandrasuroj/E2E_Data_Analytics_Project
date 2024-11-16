@@ -1,3 +1,3 @@
-# E2E_Data_Analytics_Project
+# End to End Data_Analytics_Project
 ### INeuron Intelligence
 
